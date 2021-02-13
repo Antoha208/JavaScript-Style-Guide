@@ -1,15 +1,15 @@
 # JavaScript-Style-Guide by Antoha208 (c)
 ___
 
-- __[1. Объявление переменных](https://https://github.com/Antoha208/JavaScript-Style-Guide#Объявление переменных)__
+- __[1. Объявление переменных](https://https://github.com/Antoha208/JavaScript-Style-Guide#Объявлениепеременных)__
 - __[2. Запятые](https://https://github.com/Antoha208/JavaScript-Style-Guide#Запятые)__
-- __[3. Точка с запятой](https://https://github.com/Antoha208/JavaScript-Style-Guide#Точка с запятой)__
-- __[4. Длина строки](https://https://github.com/Antoha208/JavaScript-Style-Guide#Длина строки)__
+- __[3. Точка с запятой](https://https://github.com/Antoha208/JavaScript-Style-Guide#Точкасзапятой)__
+- __[4. Длина строки](https://https://github.com/Antoha208/JavaScript-Style-Guide#Длинастроки)__
 - __[5. Отступы](https://https://github.com/Antoha208/JavaScript-Style-Guide#Отступы)__
-- __[6. Блоки и фигурные скобки](https://https://github.com/Antoha208/JavaScript-Style-Guide#Блоки и фигурные скобки)__
+- __[6. Блоки и фигурные скобки](https://https://github.com/Antoha208/JavaScript-Style-Guide#Блокиифигурныескобки)__
 - __[7. Объекты](https://https://github.com/Antoha208/JavaScript-Style-Guide#Объекты)__
 - __[8. Функции](https://https://github.com/Antoha208/JavaScript-Style-Guide#Функции)__
-- __[9. Уровни вложенности](https://github.com/Antoha208/JavaScript-Style-Guide#Уровни вложенности)__
+- __[9. Уровни вложенности](https://github.com/Antoha208/JavaScript-Style-Guide#Уровнивложенности)__
 - __[10. Комментарии](https://https://github.com/Antoha208/JavaScript-Style-Guide#Комментарии)__
 
 ___
@@ -482,5 +482,3 @@ function foo( types, selector, data, fn, /* INTERNAL */ one ) {
     // Делать что-то
 }
 ```
-
-___
